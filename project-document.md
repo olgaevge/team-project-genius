@@ -11,7 +11,8 @@
 
 ## Скриншоты
 
-![Главный экран](screenshots/main.png)
+<img width="1858" height="1082" alt="генератор паролей" src="https://github.com/user-attachments/assets/39967335-8c8a-4929-825d-c8f7d97142c1" />
+
 
 ## Разработчики
 
